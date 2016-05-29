@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1464508303 source:c:\users\kevin\desktop\projet isn\reussi\fevent.c
+	"fmap.h"
+
+1464456890 c:\users\kevin\desktop\projet isn\reussi\fevent.h
+	<sdl/sdl.h>
+
+1464508500 source:c:\users\kevin\desktop\projet isn\reussi\fmap.c
+	<string.h>
+	"fmap.h"
+
+1464508400 c:\users\kevin\desktop\projet isn\reussi\fmap.h
+	<sdl/sdl.h>
+
+1464456953 source:c:\users\kevin\desktop\projet isn\reussi\prog6.c
+	"fmap.h"
+	"fevent.h"
+
+1463393219 source:c:\users\kevin\desktop\projet isn\reussi\02_02_01_02_saut.c
+	<sdl/sdl.h>
+
+1464514008 source:c:\users\kevin\desktop\projet isn\reussi\jeu.c
+	"fonction.h"
+
+1464508937 source:c:\users\kevin\desktop\projet isn\reussi\fonction.c
+	<string.h>
+	"fonction.h"
+
+1464509924 c:\users\kevin\desktop\projet isn\reussi\fonction.h
+	<sdl/sdl.h>
+

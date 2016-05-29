@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1300304657 source:c:\users\kevin\desktop\projet isn\tilemapping\prog6\prog6\fevent.c
+	"fevent.h"
+
+1300275008 c:\users\kevin\desktop\projet isn\tilemapping\prog6\prog6\fevent.h
+	<sdl/sdl.h>
+
+1300748751 source:c:\users\kevin\desktop\projet isn\tilemapping\prog6\prog6\fmap.c
+	<string.h>
+	"fmap.h"
+
+1463318977 c:\users\kevin\desktop\projet isn\tilemapping\prog6\prog6\fmap.h
+	<sdl/sdl.h>
+
+1300748962 source:c:\users\kevin\desktop\projet isn\tilemapping\prog6\prog6\prog6.c
+	"fmap.h"
+	"fevent.h"
+
+1301954316 source:c:\users\kevin\desktop\projet isn\tilemapping\prog7\prog7\animat.c
+	"animat.h"
+
+1463318631 c:\users\kevin\desktop\projet isn\tilemapping\prog7\prog7\animat.h
+	<sdl/sdl.h>
+
+1302036704 source:c:\users\kevin\desktop\projet isn\tilemapping\prog7\prog7\sprite.c
+	"sprite.h"
+
+1302036702 c:\users\kevin\desktop\projet isn\tilemapping\prog7\prog7\sprite.h
+	"animat.h"
+
+1300304657 source:c:\users\kevin\desktop\projet isn\tilemapping\reussi\prog6\fevent.c
+	"fevent.h"
+
+1300275008 c:\users\kevin\desktop\projet isn\tilemapping\reussi\prog6\fevent.h
+	<sdl/sdl.h>
+
+1300748751 source:c:\users\kevin\desktop\projet isn\tilemapping\reussi\prog6\fmap.c
+	<string.h>
+	"fmap.h"
+
+1463318977 c:\users\kevin\desktop\projet isn\tilemapping\reussi\prog6\fmap.h
+	<sdl/sdl.h>
+
+1463323970 source:c:\users\kevin\desktop\projet isn\tilemapping\reussi\prog6\prog6.c
+	"fmap.h"
+	"fevent.h"
+
